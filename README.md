@@ -18,7 +18,7 @@
 <tr>
 <td align="center"><img src="./Pastel-Window.png" width="200"><br><sub>Pastel-Window.png</sub></td>
 <td align="center"><img src="./akatsuki.webp" width="200"><br><sub>akatsuki.webp</sub></td>
-<td align="center"><img src="./anime-girls-cat-girl-bubble-tea-market-ramen-cow-girl-2252238-wallhere.com.jpg" width="200"><br><sub>anime-girls-cat-girl-bubble-tea-market-ramen-cow-girl-2252238-wallhere.com.jpg</sub></td>
+<td align="center"><img src="./anime_girls.jpg" width="200"><br><sub>anime_girls.jpg</sub></td>
 <td align="center"><img src="./anime_skull.png" width="200"><br><sub>anime_skull.png</sub></td>
 </tr>
 <tr>
@@ -49,36 +49,36 @@
 <td align="center"><img src="./jan_3.webp" width="200"><br><sub>jan_3.webp</sub></td>
 <td align="center"><img src="./keyboard.png" width="200"><br><sub>keyboard.png</sub></td>
 <td align="center"><img src="./melissa_6.webp" width="200"><br><sub>melissa_6.webp</sub></td>
-<td align="center"><img src="./misty-dark-forest-background-desktop-wallpaper-preview.jpg" width="200"><br><sub>misty-dark-forest-background-desktop-wallpaper-preview.jpg</sub></td>
+<td align="center"><img src="./misty-dark-forest.jpg" width="200"><br><sub>misty-dark-forest.jpg</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./mountain.png" width="200"><br><sub>mountain.png</sub></td>
+<td align="center"><img src="./mountains.jpg" width="200"><br><sub>mountains.jpg</sub></td>
 <td align="center"><img src="./nice-blue-background.png" width="200"><br><sub>nice-blue-background.png</sub></td>
 <td align="center"><img src="./pacman.webp" width="200"><br><sub>pacman.webp</sub></td>
-<td align="center"><img src="./photo_catpuccin.jpg" width="200"><br><sub>photo_catpuccin.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./photo_catpuccin.jpg" width="200"><br><sub>photo_catpuccin.jpg</sub></td>
 <td align="center"><img src="./pikachuchill.jpg" width="200"><br><sub>pikachuchill.jpg</sub></td>
 <td align="center"><img src="./red_balloons.jpg" width="200"><br><sub>red_balloons.jpg</sub></td>
 <td align="center"><img src="./reflection.webp" width="200"><br><sub>reflection.webp</sub></td>
-<td align="center"><img src="./samurai.webp" width="200"><br><sub>samurai.webp</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./samurai.webp" width="200"><br><sub>samurai.webp</sub></td>
 <td align="center"><img src="./samurai_girl.webp" width="200"><br><sub>samurai_girl.webp</sub></td>
 <td align="center"><img src="./sea_waves.webp" width="200"><br><sub>sea_waves.webp</sub></td>
 <td align="center"><img src="./spiderman.jpg" width="200"><br><sub>spiderman.jpg</sub></td>
-<td align="center"><img src="./store.webp" width="200"><br><sub>store.webp</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./store.webp" width="200"><br><sub>store.webp</sub></td>
 <td align="center"><img src="./video_games.webp" width="200"><br><sub>video_games.webp</sub></td>
 <td align="center"><img src="./wall-01.webp" width="200"><br><sub>wall-01.webp</sub></td>
 <td align="center"><img src="./wall-05.png" width="200"><br><sub>wall-05.png</sub></td>
-<td align="center"><img src="./wall-06.png" width="200"><br><sub>wall-06.png</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./wall-06.png" width="200"><br><sub>wall-06.png</sub></td>
 <td align="center"><img src="./wallhaven.jpg" width="200"><br><sub>wallhaven.jpg</sub></td>
 <td align="center"><img src="./wallpaper_xdd.jpg" width="200"><br><sub>wallpaper_xdd.jpg</sub></td>
-<td align="center"><img src="./wallpaperflare.com_wallpaper.jpg" width="200"><br><sub>wallpaperflare.com_wallpaper.jpg</sub></td>
 <td align="center"><img src="./warm_afternoon.jpeg" width="200"><br><sub>warm_afternoon.jpeg</sub></td>
 </tr>
 </table>
@@ -89,7 +89,7 @@
 <tr>
 <td align="center"><img src="./fondos_telefono/2B_1.jpg" width="200"><br><sub>2B_1.jpg</sub></td>
 <td align="center"><img src="./fondos_telefono/2B_2.jpg" width="200"><br><sub>2B_2.jpg</sub></td>
-<td align="center"><img src="./fondos_telefono/Rei-Ayanami-telefono-fondo-azul.jpg" width="200"><br><sub>Rei-Ayanami-telefono-fondo-azul.jpg</sub></td>
+<td align="center"><img src="./fondos_telefono/Rei-Ayanami.jpg" width="200"><br><sub>Rei-Ayanami.jpg</sub></td>
 <td align="center"><img src="./fondos_telefono/asuka.png" width="200"><br><sub>asuka.png</sub></td>
 </tr>
 <tr>

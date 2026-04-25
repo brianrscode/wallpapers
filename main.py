@@ -1,26 +1,3 @@
-"""
-<table>
-  <!-- Fila de la cabecera -->
-  <tr>
-    <th>Título columna 1</th> <!-- Celda cabecera de la columna 1 -->
-    <th>Título columna 2</th> <!-- Celda cabecera de la columna 2 -->
-    <th>Título columna 3</th> <!-- Celda cabecera de la columna 3 -->
-  </tr>
-  <!-- Primera fila -->
-  <tr>
-    <td>Celda 1x1</td> <!-- Primera celda de la primera fila -->
-    <td>Celda 2x1</td> <!-- Segunda celda de la primera fila -->
-    <td>Celda 3x1</td> <!-- Tercera celda de la primera fila -->
-  </tr>
-  <!-- Segunda fila -->
-  <tr>
-    <td>Celda 1x2</td> <!-- Primera celda de la segunda fila -->
-    <td>Celda 2x2</td> <!-- Segunda celda de la segunda fila -->
-    <td>Celda 3x2</td> <!-- Tercera celda de la segunda fila -->
-  </tr>
-</table>
-"""
-
 import os
 
 EXTENSIONES_VALIDAS = (".png", ".jpg", ".jpeg", ".webp", ".gif")
@@ -76,3 +53,5 @@ with open("README.md", "w", encoding="utf-8") as f:
             f.write("</tr>\n")
 
         f.write("</table>\n\n")
+
+print("README.md generado con éxito.")

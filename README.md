@@ -172,19 +172,25 @@
 <td align="center"><img src="./fondos_telefono/IMG_20240806_224446.jpeg" width="200"><br><sub>IMG_20240806_224446.jpeg</sub></td>
 <td align="center"><img src="./fondos_telefono/IMG_20250808_195639_820.jpeg" width="200"><br><sub>IMG_20250808_195639_820.jpeg</sub></td>
 <td align="center"><img src="./fondos_telefono/Rei-Ayanami.jpg" width="200"><br><sub>Rei-Ayanami.jpg</sub></td>
-<td align="center"><img src="./fondos_telefono/asuka.png" width="200"><br><sub>asuka.png</sub></td>
+<td align="center"><img src="./fondos_telefono/aesthetic-wallpapers.png" width="200"><br><sub>aesthetic-wallpapers.png</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./fondos_telefono/asuka.png" width="200"><br><sub>asuka.png</sub></td>
 <td align="center"><img src="./fondos_telefono/bg_7.jpg" width="200"><br><sub>bg_7.jpg</sub></td>
 <td align="center"><img src="./fondos_telefono/charmander.jpg" width="200"><br><sub>charmander.jpg</sub></td>
 <td align="center"><img src="./fondos_telefono/city.jpg" width="200"><br><sub>city.jpg</sub></td>
-<td align="center"><img src="./fondos_telefono/dark_space.jpg" width="200"><br><sub>dark_space.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./fondos_telefono/dark_space.jpg" width="200"><br><sub>dark_space.jpg</sub></td>
 <td align="center"><img src="./fondos_telefono/eva1.png" width="200"><br><sub>eva1.png</sub></td>
 <td align="center"><img src="./fondos_telefono/eva2.png" width="200"><br><sub>eva2.png</sub></td>
 <td align="center"><img src="./fondos_telefono/evangelion.png" width="200"><br><sub>evangelion.png</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./fondos_telefono/goku_black.jpeg" width="200"><br><sub>goku_black.jpeg</sub></td>
 <td align="center"><img src="./fondos_telefono/house.jpg" width="200"><br><sub>house.jpg</sub></td>
+<td align="center"><img src="./fondos_telefono/mario-bros-world.jpeg" width="200"><br><sub>mario-bros-world.jpeg</sub></td>
+<td align="center"><img src="./fondos_telefono/naruto-wallpapers.jpeg" width="200"><br><sub>naruto-wallpapers.jpeg</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./fondos_telefono/pirate_ship.jpg" width="200"><br><sub>pirate_ship.jpg</sub></td>
@@ -201,7 +207,10 @@
 <tr>
 <td align="center"><img src="./fondos_telefono/skulls.png" width="200"><br><sub>skulls.png</sub></td>
 <td align="center"><img src="./fondos_telefono/spiderman.jpeg" width="200"><br><sub>spiderman.jpeg</sub></td>
+<td align="center"><img src="./fondos_telefono/spiderman2.jpeg" width="200"><br><sub>spiderman2.jpeg</sub></td>
 <td align="center"><img src="./fondos_telefono/star_wars.jpg" width="200"><br><sub>star_wars.jpg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./fondos_telefono/walp1616295878128.png" width="200"><br><sub>walp1616295878128.png</sub></td>
 </tr>
 </table>

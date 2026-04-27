@@ -210,8 +210,20 @@
 
 <table>
 <tr>
+<td align="center"><img src="./ultrawide/ColorWall-1p168v.jpg" width="200"><br><sub>ColorWall-1p168v.jpg</sub></td>
+<td align="center"><img src="./ultrawide/ColorWall-3zmpy3.jpg" width="200"><br><sub>ColorWall-3zmpy3.jpg</sub></td>
 <td align="center"><img src="./ultrawide/city_ultrawide.jpg" width="200"><br><sub>city_ultrawide.jpg</sub></td>
 <td align="center"><img src="./ultrawide/fantasy_art_ultrawide.jpg" width="200"><br><sub>fantasy_art_ultrawide.jpg</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./ultrawide/frieren_2560x1080.jpg" width="200"><br><sub>frieren_2560x1080.jpg</sub></td>
+<td align="center"><img src="./ultrawide/frieren_2_2560x1080.jpeg" width="200"><br><sub>frieren_2_2560x1080.jpeg</sub></td>
+<td align="center"><img src="./ultrawide/no_mans_sky_2560x1080.jpg" width="200"><br><sub>no_mans_sky_2560x1080.jpg</sub></td>
+<td align="center"><img src="./ultrawide/no_mans_sky_2_2560x1080.jpg" width="200"><br><sub>no_mans_sky_2_2560x1080.jpg</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./ultrawide/puerta_torii_pixeles_2560x1080.webp" width="200"><br><sub>puerta_torii_pixeles_2560x1080.webp</sub></td>
+<td align="center"><img src="./ultrawide/touka_ultrawide.png" width="200"><br><sub>touka_ultrawide.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-5ydrv7_2560x1080.png" width="200"><br><sub>wallhaven-5ydrv7_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-6ljx8x_2560x1080.png" width="200"><br><sub>wallhaven-6ljx8x_2560x1080.png</sub></td>
 </tr>
@@ -229,6 +241,7 @@
 </tr>
 <tr>
 <td align="center"><img src="./ultrawide/wallpaper_eva_ultrawide.jpg" width="200"><br><sub>wallpaper_eva_ultrawide.jpg</sub></td>
+<td align="center"><img src="./ultrawide/white_waifu_2560x1080.jpg" width="200"><br><sub>white_waifu_2560x1080.jpg</sub></td>
 </tr>
 </table>
 

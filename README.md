@@ -1,6 +1,6 @@
 # Wallpapers
 
-## 📁 .\escritorio
+## 📁 escritorio
 
 <table>
 <tr>
@@ -99,7 +99,7 @@
 </tr>
 </table>
 
-## 📁 .\fondos_telefono
+## 📁 fondos_telefono
 
 <table>
 <tr>
@@ -215,7 +215,15 @@
 </tr>
 </table>
 
-## 📁 .\ultrawide
+## 📁 profiles
+
+<table>
+<tr>
+<td align="center"><img src="./profiles/avatar_black_cat.jpg" width="200"><br><sub>avatar_black_cat.jpg</sub></td>
+</tr>
+</table>
+
+## 📁 ultrawide
 
 <table>
 <tr>

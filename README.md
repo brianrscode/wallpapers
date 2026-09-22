@@ -60,49 +60,61 @@
 <tr>
 <td align="center"><img src="./escritorio/anime_skull.png" width="200"><br><sub>anime_skull.png</sub></td>
 <td align="center"><img src="./escritorio/anonymous.jpg" width="200"><br><sub>anonymous.jpg</sub></td>
+<td align="center"><img src="./escritorio/blue-car.jpg" width="200"><br><sub>blue-car.jpg</sub></td>
 <td align="center"><img src="./escritorio/bosque.jpg" width="200"><br><sub>bosque.jpg</sub></td>
-<td align="center"><img src="./escritorio/carro_morado.jpg" width="200"><br><sub>carro_morado.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/car-in-tunnel.png" width="200"><br><sub>car-in-tunnel.png</sub></td>
+<td align="center"><img src="./escritorio/carro_morado.jpg" width="200"><br><sub>carro_morado.jpg</sub></td>
+<td align="center"><img src="./escritorio/cat-in-swamp.png" width="200"><br><sub>cat-in-swamp.png</sub></td>
 <td align="center"><img src="./escritorio/ciervo.jpg" width="200"><br><sub>ciervo.jpg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/cottagecore.jpg" width="200"><br><sub>cottagecore.jpg</sub></td>
 <td align="center"><img src="./escritorio/cristina_1.webp" width="200"><br><sub>cristina_1.webp</sub></td>
 <td align="center"><img src="./escritorio/dark-souls.jpg" width="200"><br><sub>dark-souls.jpg</sub></td>
+<td align="center"><img src="./escritorio/dark.jpg" width="200"><br><sub>dark.jpg</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./escritorio/dark.jpg" width="200"><br><sub>dark.jpg</sub></td>
 <td align="center"><img src="./escritorio/dark.png" width="200"><br><sub>dark.png</sub></td>
 <td align="center"><img src="./escritorio/dark_wall.webp" width="200"><br><sub>dark_wall.webp</sub></td>
 <td align="center"><img src="./escritorio/dead_astronaut.webp" width="200"><br><sub>dead_astronaut.webp</sub></td>
+<td align="center"><img src="./escritorio/destroyed_city.webp" width="200"><br><sub>destroyed_city.webp</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./escritorio/destroyed_city.webp" width="200"><br><sub>destroyed_city.webp</sub></td>
 <td align="center"><img src="./escritorio/dragon.gif" width="200"><br><sub>dragon.gif</sub></td>
 <td align="center"><img src="./escritorio/dragon_ball.jpg" width="200"><br><sub>dragon_ball.jpg</sub></td>
 <td align="center"><img src="./escritorio/emo.jpg" width="200"><br><sub>emo.jpg</sub></td>
+<td align="center"><img src="./escritorio/epic.jpg" width="200"><br><sub>epic.jpg</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./escritorio/epic.jpg" width="200"><br><sub>epic.jpg</sub></td>
 <td align="center"><img src="./escritorio/ethereal.jpg" width="200"><br><sub>ethereal.jpg</sub></td>
 <td align="center"><img src="./escritorio/fantasy.jpg" width="200"><br><sub>fantasy.jpg</sub></td>
 <td align="center"><img src="./escritorio/fondo_arknights.jpeg" width="200"><br><sub>fondo_arknights.jpeg</sub></td>
+<td align="center"><img src="./escritorio/fondo_fantasia.jpg" width="200"><br><sub>fondo_fantasia.jpg</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./escritorio/fondo_fantasia.jpg" width="200"><br><sub>fondo_fantasia.jpg</sub></td>
 <td align="center"><img src="./escritorio/fondo_kali.jpg" width="200"><br><sub>fondo_kali.jpg</sub></td>
 <td align="center"><img src="./escritorio/fondo_touka.jpg" width="200"><br><sub>fondo_touka.jpg</sub></td>
 <td align="center"><img src="./escritorio/forest.jpg" width="200"><br><sub>forest.jpg</sub></td>
+<td align="center"><img src="./escritorio/fox.jpg" width="200"><br><sub>fox.jpg</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./escritorio/fox.jpg" width="200"><br><sub>fox.jpg</sub></td>
 <td align="center"><img src="./escritorio/gallos.jpg" width="200"><br><sub>gallos.jpg</sub></td>
 <td align="center"><img src="./escritorio/ghost.jpg" width="200"><br><sub>ghost.jpg</sub></td>
+<td align="center"><img src="./escritorio/girl-with-fish.jpg" width="200"><br><sub>girl-with-fish.jpg</sub></td>
 <td align="center"><img src="./escritorio/girl_and_cat.webp" width="200"><br><sub>girl_and_cat.webp</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./escritorio/girl_in_temple.webp" width="200"><br><sub>girl_in_temple.webp</sub></td>
 <td align="center"><img src="./escritorio/girl_with_knife.webp" width="200"><br><sub>girl_with_knife.webp</sub></td>
 <td align="center"><img src="./escritorio/goblincore.jpg" width="200"><br><sub>goblincore.jpg</sub></td>
+<td align="center"><img src="./escritorio/green-car.jpg" width="200"><br><sub>green-car.jpg</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./escritorio/green-dragon.jpg" width="200"><br><sub>green-dragon.jpg</sub></td>
+<td align="center"><img src="./escritorio/green-nature-girl-anime.jpg" width="200"><br><sub>green-nature-girl-anime.jpg</sub></td>
+<td align="center"><img src="./escritorio/hollow-knight.png" width="200"><br><sub>hollow-knight.png</sub></td>
 <td align="center"><img src="./escritorio/imagen7.jpg" width="200"><br><sub>imagen7.jpg</sub></td>
 </tr>
 <tr>
@@ -127,7 +139,13 @@
 <td align="center"><img src="./escritorio/kirby-chibi.jpg" width="200"><br><sub>kirby-chibi.jpg</sub></td>
 <td align="center"><img src="./escritorio/kirby-santa.jpg" width="200"><br><sub>kirby-santa.jpg</sub></td>
 <td align="center"><img src="./escritorio/lGZvkra.png" width="200"><br><sub>lGZvkra.png</sub></td>
+<td align="center"><img src="./escritorio/light-chainsaw.png" width="200"><br><sub>light-chainsaw.png</sub></td>
+</tr>
+<tr>
+<td align="center"><img src="./escritorio/light-flower-branch.png" width="200"><br><sub>light-flower-branch.png</sub></td>
+<td align="center"><img src="./escritorio/light-red-forest.jpg" width="200"><br><sub>light-red-forest.jpg</sub></td>
 <td align="center"><img src="./escritorio/little-prince.jpg" width="200"><br><sub>little-prince.jpg</sub></td>
+<td align="center"><img src="./escritorio/lone-tree.jpg" width="200"><br><sub>lone-tree.jpg</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./escritorio/luffy-nami.jpg" width="200"><br><sub>luffy-nami.jpg</sub></td>
@@ -136,32 +154,38 @@
 <td align="center"><img src="./escritorio/misty-dark-forest.jpg" width="200"><br><sub>misty-dark-forest.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/moon-town.jpg" width="200"><br><sub>moon-town.jpg</sub></td>
 <td align="center"><img src="./escritorio/mountain.png" width="200"><br><sub>mountain.png</sub></td>
 <td align="center"><img src="./escritorio/mountains.jpg" width="200"><br><sub>mountains.jpg</sub></td>
 <td align="center"><img src="./escritorio/mxrSKdB.png" width="200"><br><sub>mxrSKdB.png</sub></td>
-<td align="center"><img src="./escritorio/nice-blue-background.png" width="200"><br><sub>nice-blue-background.png</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/nice-blue-background.png" width="200"><br><sub>nice-blue-background.png</sub></td>
+<td align="center"><img src="./escritorio/one-dark-leaves.jpg" width="200"><br><sub>one-dark-leaves.jpg</sub></td>
 <td align="center"><img src="./escritorio/onimusha.jpg" width="200"><br><sub>onimusha.jpg</sub></td>
 <td align="center"><img src="./escritorio/pKqP6ll.jpeg" width="200"><br><sub>pKqP6ll.jpeg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/pacman.webp" width="200"><br><sub>pacman.webp</sub></td>
 <td align="center"><img src="./escritorio/paper.jpg" width="200"><br><sub>paper.jpg</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="./escritorio/photo_catpuccin.jpg" width="200"><br><sub>photo_catpuccin.jpg</sub></td>
 <td align="center"><img src="./escritorio/pikachuchill.jpg" width="200"><br><sub>pikachuchill.jpg</sub></td>
-<td align="center"><img src="./escritorio/princess.jpg" width="200"><br><sub>princess.jpg</sub></td>
-<td align="center"><img src="./escritorio/qr3tWB5.png" width="200"><br><sub>qr3tWB5.png</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/princess.jpg" width="200"><br><sub>princess.jpg</sub></td>
+<td align="center"><img src="./escritorio/purple-bottle.png" width="200"><br><sub>purple-bottle.png</sub></td>
+<td align="center"><img src="./escritorio/qr3tWB5.png" width="200"><br><sub>qr3tWB5.png</sub></td>
 <td align="center"><img src="./escritorio/qsURL8J.jpeg" width="200"><br><sub>qsURL8J.jpeg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/rainbow.jpg" width="200"><br><sub>rainbow.jpg</sub></td>
 <td align="center"><img src="./escritorio/reQJb2.jpg" width="200"><br><sub>reQJb2.jpg</sub></td>
 <td align="center"><img src="./escritorio/red_balloons.jpg" width="200"><br><sub>red_balloons.jpg</sub></td>
+<td align="center"><img src="./escritorio/reflection.webp" width="200"><br><sub>reflection.webp</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./escritorio/reflection.webp" width="200"><br><sub>reflection.webp</sub></td>
 <td align="center"><img src="./escritorio/s4VTW7n.jpeg" width="200"><br><sub>s4VTW7n.jpeg</sub></td>
+<td align="center"><img src="./escritorio/sad-astronaut.png" width="200"><br><sub>sad-astronaut.png</sub></td>
 <td align="center"><img src="./escritorio/samurai.webp" width="200"><br><sub>samurai.webp</sub></td>
 <td align="center"><img src="./escritorio/samurai_girl.webp" width="200"><br><sub>samurai_girl.webp</sub></td>
 </tr>
@@ -169,69 +193,77 @@
 <td align="center"><img src="./escritorio/samus.jpg" width="200"><br><sub>samus.jpg</sub></td>
 <td align="center"><img src="./escritorio/sea_waves.webp" width="200"><br><sub>sea_waves.webp</sub></td>
 <td align="center"><img src="./escritorio/sendero.jpg" width="200"><br><sub>sendero.jpg</sub></td>
-<td align="center"><img src="./escritorio/si.jpg" width="200"><br><sub>si.jpg</sub></td>
+<td align="center"><img src="./escritorio/ship-at-sea.jpg" width="200"><br><sub>ship-at-sea.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/si.jpg" width="200"><br><sub>si.jpg</sub></td>
 <td align="center"><img src="./escritorio/simon.png" width="200"><br><sub>simon.png</sub></td>
 <td align="center"><img src="./escritorio/son.jpg" width="200"><br><sub>son.jpg</sub></td>
 <td align="center"><img src="./escritorio/spiderman.jpg" width="200"><br><sub>spiderman.jpg</sub></td>
-<td align="center"><img src="./escritorio/star-wars.jpg" width="200"><br><sub>star-wars.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/star-wars.jpg" width="200"><br><sub>star-wars.jpg</sub></td>
 <td align="center"><img src="./escritorio/stardew-valley.jpg" width="200"><br><sub>stardew-valley.jpg</sub></td>
+<td align="center"><img src="./escritorio/starry-night.jpg" width="200"><br><sub>starry-night.jpg</sub></td>
 <td align="center"><img src="./escritorio/starry.jpg" width="200"><br><sub>starry.jpg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/store.webp" width="200"><br><sub>store.webp</sub></td>
+<td align="center"><img src="./escritorio/the-painting.png" width="200"><br><sub>the-painting.png</sub></td>
 <td align="center"><img src="./escritorio/tokyo.jpg" width="200"><br><sub>tokyo.jpg</sub></td>
+<td align="center"><img src="./escritorio/train-sideview.png" width="200"><br><sub>train-sideview.png</sub></td>
 </tr>
 <tr>
 <td align="center"><img src="./escritorio/tren.jpg" width="200"><br><sub>tren.jpg</sub></td>
+<td align="center"><img src="./escritorio/underwater-girl.jpg" width="200"><br><sub>underwater-girl.jpg</sub></td>
 <td align="center"><img src="./escritorio/video_games.webp" width="200"><br><sub>video_games.webp</sub></td>
 <td align="center"><img src="./escritorio/wall-01.webp" width="200"><br><sub>wall-01.webp</sub></td>
-<td align="center"><img src="./escritorio/wall-05.png" width="200"><br><sub>wall-05.png</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/wall-05.png" width="200"><br><sub>wall-05.png</sub></td>
 <td align="center"><img src="./escritorio/wall-06.png" width="200"><br><sub>wall-06.png</sub></td>
 <td align="center"><img src="./escritorio/wallhaven-qroryr.jpg" width="200"><br><sub>wallhaven-qroryr.jpg</sub></td>
 <td align="center"><img src="./escritorio/wallhaven-w5xv6r.jpg" width="200"><br><sub>wallhaven-w5xv6r.jpg</sub></td>
-<td align="center"><img src="./escritorio/wallhaven.jpg" width="200"><br><sub>wallhaven.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/wallhaven.jpg" width="200"><br><sub>wallhaven.jpg</sub></td>
 <td align="center"><img src="./escritorio/wallpaper.jpg" width="200"><br><sub>wallpaper.jpg</sub></td>
 <td align="center"><img src="./escritorio/wallpaper_xdd.jpg" width="200"><br><sub>wallpaper_xdd.jpg</sub></td>
 <td align="center"><img src="./escritorio/warm_afternoon.jpeg" width="200"><br><sub>warm_afternoon.jpeg</sub></td>
-<td align="center"><img src="./escritorio/window.jpg" width="200"><br><sub>window.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/white-flower.jpg" width="200"><br><sub>white-flower.jpg</sub></td>
+<td align="center"><img src="./escritorio/window.jpg" width="200"><br><sub>window.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp12711809.jpg" width="200"><br><sub>wp12711809.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp13586879.png" width="200"><br><sub>wp13586879.png</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/wp13660383.jpg" width="200"><br><sub>wp13660383.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp13660473.jpg" width="200"><br><sub>wp13660473.jpg</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="./escritorio/wp14802166.webp" width="200"><br><sub>wp14802166.webp</sub></td>
 <td align="center"><img src="./escritorio/wp14802181.webp" width="200"><br><sub>wp14802181.webp</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/wp14802202.webp" width="200"><br><sub>wp14802202.webp</sub></td>
 <td align="center"><img src="./escritorio/wp2119159.jpg" width="200"><br><sub>wp2119159.jpg</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="./escritorio/wp2119210.jpg" width="200"><br><sub>wp2119210.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp4698508.jpg" width="200"><br><sub>wp4698508.jpg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/wp5148931.jpg" width="200"><br><sub>wp5148931.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp5148952.jpg" width="200"><br><sub>wp5148952.jpg</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="./escritorio/wp5384649.jpg" width="200"><br><sub>wp5384649.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp6700170.jpg" width="200"><br><sub>wp6700170.jpg</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./escritorio/wp6700181.jpg" width="200"><br><sub>wp6700181.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp6700213.jpg" width="200"><br><sub>wp6700213.jpg</sub></td>
-</tr>
-<tr>
 <td align="center"><img src="./escritorio/wp7078087.jpg" width="200"><br><sub>wp7078087.jpg</sub></td>
 <td align="center"><img src="./escritorio/wp7078139.jpg" width="200"><br><sub>wp7078139.jpg</sub></td>
-<td align="center"><img src="./escritorio/wp7578086.jpg" width="200"><br><sub>wp7578086.jpg</sub></td>
-<td align="center"><img src="./escritorio/wp7578174.jpg" width="200"><br><sub>wp7578174.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./escritorio/wp7578086.jpg" width="200"><br><sub>wp7578086.jpg</sub></td>
+<td align="center"><img src="./escritorio/wp7578174.jpg" width="200"><br><sub>wp7578174.jpg</sub></td>
 <td align="center"><img src="./escritorio/yUjBUuF.png" width="200"><br><sub>yUjBUuF.png</sub></td>
 </tr>
 </table>
@@ -366,35 +398,40 @@
 <tr>
 <td align="center"><img src="./ultrawide/ColorWall-1p168v.jpg" width="200"><br><sub>ColorWall-1p168v.jpg</sub></td>
 <td align="center"><img src="./ultrawide/ColorWall-3zmpy3.jpg" width="200"><br><sub>ColorWall-3zmpy3.jpg</sub></td>
+<td align="center"><img src="./ultrawide/animeskull.png" width="200"><br><sub>animeskull.png</sub></td>
 <td align="center"><img src="./ultrawide/city_ultrawide.jpg" width="200"><br><sub>city_ultrawide.jpg</sub></td>
-<td align="center"><img src="./ultrawide/fantasy_art_ultrawide.jpg" width="200"><br><sub>fantasy_art_ultrawide.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./ultrawide/fantasy_art_ultrawide.jpg" width="200"><br><sub>fantasy_art_ultrawide.jpg</sub></td>
+<td align="center"><img src="./ultrawide/forest.png" width="200"><br><sub>forest.png</sub></td>
 <td align="center"><img src="./ultrawide/frieren_2560x1080.jpg" width="200"><br><sub>frieren_2560x1080.jpg</sub></td>
 <td align="center"><img src="./ultrawide/frieren_2_2560x1080.jpeg" width="200"><br><sub>frieren_2_2560x1080.jpeg</sub></td>
-<td align="center"><img src="./ultrawide/no_mans_sky_2560x1080.jpg" width="200"><br><sub>no_mans_sky_2560x1080.jpg</sub></td>
-<td align="center"><img src="./ultrawide/no_mans_sky_2_2560x1080.jpg" width="200"><br><sub>no_mans_sky_2_2560x1080.jpg</sub></td>
 </tr>
 <tr>
+<td align="center"><img src="./ultrawide/no_mans_sky_2560x1080.jpg" width="200"><br><sub>no_mans_sky_2560x1080.jpg</sub></td>
+<td align="center"><img src="./ultrawide/no_mans_sky_2_2560x1080.jpg" width="200"><br><sub>no_mans_sky_2_2560x1080.jpg</sub></td>
 <td align="center"><img src="./ultrawide/puerta_torii_pixeles_2560x1080.webp" width="200"><br><sub>puerta_torii_pixeles_2560x1080.webp</sub></td>
+<td align="center"><img src="./ultrawide/samurai-panda.png" width="200"><br><sub>samurai-panda.png</sub></td>
+</tr>
+<tr>
 <td align="center"><img src="./ultrawide/touka_ultrawide.png" width="200"><br><sub>touka_ultrawide.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-5ydrv7_2560x1080.png" width="200"><br><sub>wallhaven-5ydrv7_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-6ljx8x_2560x1080.png" width="200"><br><sub>wallhaven-6ljx8x_2560x1080.png</sub></td>
+<td align="center"><img src="./ultrawide/wallhaven-e8oo5k_2560x1080.png" width="200"><br><sub>wallhaven-e8oo5k_2560x1080.png</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./ultrawide/wallhaven-e8oo5k_2560x1080.png" width="200"><br><sub>wallhaven-e8oo5k_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-k89d66_2560x1080.png" width="200"><br><sub>wallhaven-k89d66_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-k89wk6_2560x1080.png" width="200"><br><sub>wallhaven-k89wk6_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-mlpljk_2560x1080.png" width="200"><br><sub>wallhaven-mlpljk_2560x1080.png</sub></td>
+<td align="center"><img src="./ultrawide/wallhaven-ogd28l_2560x1080.png" width="200"><br><sub>wallhaven-ogd28l_2560x1080.png</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./ultrawide/wallhaven-ogd28l_2560x1080.png" width="200"><br><sub>wallhaven-ogd28l_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-ogdeg7_2560x1080.png" width="200"><br><sub>wallhaven-ogdeg7_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-xe5vxz_2560x1080.png" width="200"><br><sub>wallhaven-xe5vxz_2560x1080.png</sub></td>
 <td align="center"><img src="./ultrawide/wallhaven-yqj5yk_2560x1080.png" width="200"><br><sub>wallhaven-yqj5yk_2560x1080.png</sub></td>
+<td align="center"><img src="./ultrawide/wallpaper_eva_ultrawide.jpg" width="200"><br><sub>wallpaper_eva_ultrawide.jpg</sub></td>
 </tr>
 <tr>
-<td align="center"><img src="./ultrawide/wallpaper_eva_ultrawide.jpg" width="200"><br><sub>wallpaper_eva_ultrawide.jpg</sub></td>
 <td align="center"><img src="./ultrawide/white_waifu_2560x1080.jpg" width="200"><br><sub>white_waifu_2560x1080.jpg</sub></td>
 </tr>
 </table>
